@@ -3,9 +3,3 @@
 > What's that, then?
 
 > Allons-y!
-
----
-
-> Why don't you star your own repos?
-
-> I don't know, do you like your own tweets?
