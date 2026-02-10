@@ -5,5 +5,3 @@
 > What's that, then?
 
 > Allons-y!
-
-![Bryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjanaka&show_icons=true&theme=dark)
